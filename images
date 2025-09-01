@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +7,9 @@
 </head>
 <body>
 
-<img src="https://raw.githubusercontent.com/rishilabs/webimages/branch/folder/image.jpg" alt="Description">
+<h1>Display Github Image Example</h1>
+
+<img src="https://raw.githubusercontent.com/rishilabs/webimages/main/Screenshot.jpg" alt="Screenshot">
+
 </body>
 </html>
